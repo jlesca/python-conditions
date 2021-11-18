@@ -13,3 +13,5 @@ Working with logical operators in Python.
     <tr><td>Grater than equal to</td><th>a >=b</th></tr>
   </tbody>
 </table>
+
+Can be used with "If statements" and loops.
